@@ -15,9 +15,3 @@
 </a>
 <br>
 
-
-### Moje Projekty
-
-#### DC:
-
-- [BlastMC](https://dsc.gg/blastmceu/)
