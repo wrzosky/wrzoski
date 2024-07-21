@@ -11,9 +11,6 @@
 <a href="https://www.youtube.com/watch?v=7kfDK4rpbgY&pp=ygUFYmFtYmk%3D">
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=wrzosky&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0C1116&text_color=fff&icon_color=3A90F6&theme=material-palenight" />
 
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1234844476275560449)](https://discord.com/users/1234844476275560449)
-
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=zp8pv6ldcyzq0sa6rsixmozqd)
 </a>
 <br>
