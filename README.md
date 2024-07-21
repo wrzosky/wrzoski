@@ -1,5 +1,5 @@
 ## **Linki**
-[YT](https://www.youtube.com/@dotmlpa)
+[YT](https://www.youtube.com/@dotmlpa) | [Polskie Burdele v2](https://discord.gg/hwxHSVTzZC) | [Spotify](https://open.spotify.com/user/zp8pv6ldcyzq0sa6rsixmozqd?si=5a40cb44b0354a7e) | [Twitch](https://twitch.tv/glodisz)
 
 ## **JAKIEŚ G :>**
 
